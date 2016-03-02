@@ -7,7 +7,7 @@ function changeName(personToChange) {
 
 var person = {
     name: 'David',
-    email: 'david@depotu.io'
+    email: 'david@someemail.com'
 };
 
 console.log(person);
